@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FlippingCat Creations",
-    "currentPage": "index.html",
+    "currentPage": "fan-art.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2042,7 +2042,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Film characters, Gaming, God of War",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2055,7 +2055,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Film characters, Gaming, God of War",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2064,7 +2064,85 @@
                 "alt": "Kratos - FlippingCat Creations",
                 "title": "Kratos - FlippingCat Creations",
                 "customStyle1": "display-7",
-                "caption": "God of War<br>",
+                "caption": "Kratos",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Gaming",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/lara-croft-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lara-croft-1748x2480-800x1135.jpg",
+                "alt": "Lara Croft - FlippingCat Creations",
+                "title": "Lara Croft - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Lara Croft<br>",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Gaming",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/prince-of-persia-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/prince-of-persia-1748x2480-800x1135.jpg",
+                "alt": "Prince of Persia - FlippingCat Creations",
+                "title": "Prince of Persia - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Prince of Persia<br>",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Gaming",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scorpion-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scorpion-1748x2480-800x1135.jpg",
+                "alt": "Scorpion King - FlippingCat Creations",
+                "title": "Scorpion King - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Scorpion King<br>",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Gaming",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/shadow-of-war-2000x1410.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shadow-of-war-2000x1410-800x564.jpg",
+                "alt": "Shadow of War - FlippingCat Creations",
+                "title": "Shadow of War - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Shadow of War<br>",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Horror, Sci-Fi",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/pennywise-it-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pennywise-it-1748x2480-800x1135.jpg",
+                "alt": "Pennywise (IT) - FlippingCat Creations",
+                "title": "Pennywise (IT) - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Pennywise (IT)<br>",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Film characters, Horror, Sci-Fi",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/xenomorph-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/xenomorph-1748x2480-800x1135.jpg",
+                "alt": "Xenomorph - FlippingCat Creations",
+                "title": "Xenomorph - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Xenomorph<br>",
                 "active": true
               }
             ]
