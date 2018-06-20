@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FlippingCat Creations",
-    "currentPage": "index.html",
+    "currentPage": "fan-art.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1977,7 +1977,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Disney",
+                "tags": "Fan art, Film characters",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2016,7 +2016,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Gaming",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2029,7 +2029,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming, Assassin's Creed",
+                "tags": "Fan art, Gaming, Assassin's Creed",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2042,7 +2042,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming, God of War",
+                "tags": "Fan art, Gaming, God of War",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2055,7 +2055,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming, God of War",
+                "tags": "Fan art, Gaming, God of War",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2068,7 +2068,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Gaming",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2094,20 +2094,20 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Gaming",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/scorpion-1748x2480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/scorpion-1748x2480-800x1135.jpg",
-                "alt": "Scorpion King - FlippingCat Creations",
-                "title": "Scorpion King - FlippingCat Creations",
+                "alt": "Scorpion - FlippingCat Creations",
+                "title": "Scorpion - FlippingCat Creations",
                 "customStyle1": "display-7",
-                "caption": "Scorpion King<br>",
+                "caption": "Scorpion<br>",
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, Gaming",
+                "tags": "Fan art, Gaming",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2117,7 +2117,7 @@
                 "title": "Shadow of War - FlippingCat Creations",
                 "customStyle1": "display-7",
                 "caption": "Shadow of War<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Fan art, Film characters, Horror, Sci-Fi",
@@ -2367,7 +2367,20 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, The Walking Dead",
+                "tags": "Fan art, Film characters, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/carnage-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carnage-marvel-1748x2480-800x1135.jpg",
+                "alt": "Carnage - FlippingCat Creations",
+                "title": "Carnage - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Carnage",
+                "active": false
+              },
+              {
+                "tags": "Fan art, The Walking Dead",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2393,7 +2406,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, The Walking Dead",
+                "tags": "Fan art, The Walking Dead",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2406,7 +2419,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, Film characters, The Walking Dead",
+                "tags": "Fan art, The Walking Dead",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2417,6 +2430,214 @@
                 "customStyle1": "display-7",
                 "caption": "Rick Grimes",
                 "active": false
+              },
+              {
+                "tags": "Fan art, The Walking Dead",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/carnage-vs-venom-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/carnage-vs-venom-marvel-1748x2480-800x1135.jpg",
+                "alt": "Carnage vs Venom - FlippingCat Creations",
+                "title": "Carnage vs Venom - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Carnage vs Venom",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sabretooth-pounce-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabretooth-pounce-marvel-1748x2480-800x1135.jpg",
+                "alt": "Sabretooth - X-Men - FlippingCat Creations",
+                "title": "Sabretooth - X-Men - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Sabretooth - Pounce",
+                "active": false
+              },
+              {
+                "tags": "Fan art, DCU",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/harley-quinn-dc-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/harley-quinn-dc-1748x2480-800x1135.jpg",
+                "alt": "Harley Quinn - FlippingCat Creations",
+                "title": "Harley Quinn - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Harley Quinn",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/mr-sinister-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mr-sinister-marvel-1748x2480-800x1135.jpg",
+                "alt": "Mister Sinister - FlippingCat Creations",
+                "title": "Mister Sinister - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Mister Sinister",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sabretooth-feral-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabretooth-feral-marvel-1748x2480-800x1135.jpg",
+                "alt": "Sabretooth - FlippingCat Creations",
+                "title": "Sabretooth - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Sabretooth - Feral",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/miguel-ohara-2099-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miguel-ohara-2099-marvel-1748x2480-800x1135.jpg",
+                "alt": "Miguel O'Hara - FlippingCat Creations",
+                "title": "Miguel O'Hara - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Miguel O'Hara",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sabretooth-trust-me-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sabretooth-trust-me-marvel-1748x2480-800x1135.jpg",
+                "alt": "Sabretooth - FlippingCat Creations",
+                "title": "Sabretooth - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Sabretooth - Trust Me",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spider-man-2099-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spider-man-2099-marvel-1748x2480-800x1135.jpg",
+                "alt": "Spider-Man 2009 - FlippingCat Creations",
+                "title": "Spider-Man 2009 - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Spider-Man 2009",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spider-man-vs-venom-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spider-man-vs-venom-marvel-1748x2480-800x1135.jpg",
+                "alt": "Spider-Man vs Venom - FlippingCat Creations",
+                "title": "Spider-Man vs Venom - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Spider-Man vs Venom",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/the-x-ecutioner-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-x-ecutioner-marvel-1748x2480-800x1135.jpg",
+                "alt": "The X-Cutioner - FlippingCat Creations",
+                "title": "The X-Cutioner - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "The X-Cutioner",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/wolverine-feral-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wolverine-feral-marvel-1748x2480-800x1135.jpg",
+                "alt": "Wolverine - FlippingCat Creations",
+                "title": "Wolverine - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Wolverine",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/wolverine-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wolverine-marvel-1748x2480-800x1135.jpg",
+                "alt": "Wolverine - FlippingCat Creations",
+                "title": "Wolverine - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Wolverine",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Marvel",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/wolverine-vs-monk-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wolverine-vs-monk-marvel-1748x2480-800x1135.jpg",
+                "alt": "Wolverine - FlippingCat Creations",
+                "title": "Wolverine - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Wolverine vs Monk",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Spawn",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spawn-cross-spawn-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spawn-cross-spawn-1748x2480-800x1135.jpg",
+                "alt": "Spawn - FlippingCat Creations",
+                "title": "Spawn - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Spawn - Cross",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Spawn",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spawn-heartless-spawn-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spawn-heartless-spawn-1748x2480-800x1135.jpg",
+                "alt": "Spawn - FlippingCat Creations",
+                "title": "Spawn - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Spawn - Heartless",
+                "active": false
+              },
+              {
+                "tags": "Fan art, Spawn",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/spawn-throne-spawn-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spawn-throne-spawn-1748x2480-800x1135.jpg",
+                "alt": "Spawn - FlippingCat Creations",
+                "title": "Spawn - FlippingCat Creations",
+                "customStyle1": "display-7",
+                "caption": "Spawn - Throne",
+                "active": true
               }
             ]
           }
