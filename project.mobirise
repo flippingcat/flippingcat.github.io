@@ -1929,8 +1929,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/frozen-2000x1410.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/frozen-2000x1410-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frozen-disney-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frozen-disney-1748x2480-800x1135.jpg",
                 "alt": "Frozen - FlippingCat Creations",
                 "title": "Frozen - FlippingCat Creations",
                 "customStyle1": "display-7",
@@ -2111,13 +2111,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/shadow-of-war-2000x1410.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shadow-of-war-2000x1410-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shadow-of-war-games-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/shadow-of-war-games-1748x2480-800x1135.jpg",
                 "alt": "Shadow of War - FlippingCat Creations",
                 "title": "Shadow of War - FlippingCat Creations",
                 "customStyle1": "display-7",
                 "caption": "Shadow of War<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fan art, Film characters, Horror, Sci-Fi",
@@ -2189,8 +2189,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/locutus-of-borg-2000x1410.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/locutus-of-borg-2000x1410-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/locutus-of-borg-star-trek-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/locutus-of-borg-star-trek-1748x2480-800x1135.jpg",
                 "alt": "Locutus of Borg - Star Trek - FlippingCat Creations",
                 "title": "Locutus of Borg - Star Trek - FlippingCat Creations",
                 "customStyle1": "display-7",
@@ -2306,8 +2306,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/hulk-2000x1410.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hulk-2000x1410-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-marvel-1748x2480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-marvel-1748x2480-800x1135.jpg",
                 "alt": "Hulk - FlippingCat Creations",
                 "title": "Hulk - FlippingCat Creations",
                 "customStyle1": "display-7",
@@ -2416,7 +2416,7 @@
                 "title": "Rick Grimes - The Walking Dead - FlippingCat Creations",
                 "customStyle1": "display-7",
                 "caption": "Rick Grimes",
-                "active": true
+                "active": false
               }
             ]
           }
