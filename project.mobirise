@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FlippingCat Creations",
-    "currentPage": "contact.html",
+    "currentPage": "fan-art.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2432,7 +2432,7 @@
                 "active": false
               },
               {
-                "tags": "Fan art, The Walking Dead",
+                "tags": "Fan art, Marvel",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2442,7 +2442,7 @@
                 "title": "Carnage vs Venom - FlippingCat Creations",
                 "customStyle1": "display-7",
                 "caption": "Carnage vs Venom",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fan art, Marvel",
@@ -2637,7 +2637,7 @@
                 "title": "Spawn - FlippingCat Creations",
                 "customStyle1": "display-7",
                 "caption": "Spawn - Throne",
-                "active": true
+                "active": false
               }
             ]
           }
